@@ -1,0 +1,10 @@
+body{
+  margin: 0;padding: 0;
+  background-image: url('https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F8997f779f33b430bb22ca667d1b73ade')  ;
+  background-color: rgba(0, 0, 0, 0.9);
+    background-position: center;
+    background-size: 30px ;
+    background-blend-mode: multiply;
+    min-height: 100vh;
+    z-index: 1;
+}
